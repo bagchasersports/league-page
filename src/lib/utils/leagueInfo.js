@@ -8,8 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>The Bag Chaser Football League is a PPR promotion/relegation fantasy football league!</p>
-  <p>Follow us on all socials and take a look at our other leagues https://api.linktr.ee/bagchasersports</p>
-  <p>.</p>
+  <p></p>
 `;
 
 /*   STEP 3   */
