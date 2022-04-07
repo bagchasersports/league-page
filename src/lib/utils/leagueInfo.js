@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "806930702418444288"; // your league ID
-export const leagueName = "Bag Chaser Football League"; // your league name
+export const leagueID = "807473481853889984"; // your league ID
+export const leagueName = "BCFL Second Division"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
